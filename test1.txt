@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 5CAB-EBD6
-
- Directory of C:\Users\NC582\Desktop\Git\MyFolder
-
-2021-03-16  22:22    <DIR>          .
-2021-03-16  22:22    <DIR>          ..
-2021-03-16  22:22                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  35,374,833,664 bytes free
+Change me
