@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Volume in drive C is System
  Volume Serial Number is 5CAB-EBD6
 
@@ -10,3 +11,6 @@
 2021-03-17  15:17                 0 test2.txt
                3 File(s)             31 bytes
                2 Dir(s)  35,385,487,360 bytes free
+=======
+index.html  test1.txt  test2.txt
+>>>>>>> MyNewBranch
