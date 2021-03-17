@@ -3,11 +3,11 @@
 
  Directory of C:\Users\NC582\Desktop\Git\MyFolder
 
-2021-03-17  14:52    <DIR>          .
-2021-03-17  14:52    <DIR>          ..
+2021-03-17  15:19    <DIR>          .
+2021-03-17  15:19    <DIR>          ..
 2021-03-16  22:31                22 index.html
 2021-03-16  22:32                 9 test1.txt
-2021-03-17  11:28                33 test2.txt
-2021-03-17  14:52                 0 test3.txt
-               4 File(s)             64 bytes
-               2 Dir(s)  35,366,277,120 bytes free
+2021-03-17  15:19                34 test2.txt
+2021-03-17  15:20                 0 test3.txt
+               4 File(s)             65 bytes
+               2 Dir(s)  35,383,554,048 bytes free
